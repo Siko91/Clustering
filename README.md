@@ -10,19 +10,16 @@ The program produces a simplified image, where the clustered pixels are shown wi
 
 For example: 
 
-> KMeans.exe e.jpeg 2 4 8 16 32 64
+> KMeans.exe a.jpeg 4 25 100
 
 will read this image:
 <div>
-<img src=".\KMeans\pics\e.jpeg" >
+<img src='https://s21.postimg.org/z53n19v0j/image.jpg' border='0' alt="a"/> 
 </div>
 
 and will produce these: 
 <div>
-<img src=".\KMeans\pics\e.jpeg-2.jpeg" >
-<img src=".\KMeans\pics\e.jpeg-4.jpeg" >
-<img src=".\KMeans\pics\e.jpeg-8.jpeg" >
-<img src=".\KMeans\pics\e.jpeg-16.jpeg" >
-<img src=".\KMeans\pics\e.jpeg-32.jpeg" >
-<img src=".\KMeans\pics\e.jpeg-64.jpeg" >
+<img src='https://s21.postimg.org/i5uom0jsz/a.jpg-4.jpeg.png' border='0' alt="a.jpg-4.jpeg"/>
+<img src='https://s21.postimg.org/3nxhe0shv/a.jpg-25.jpeg.png' border='0' alt="a.jpg-25.jpeg"/>
+<img src='https://s21.postimg.org/6jakkvwhv/a.jpg-100.jpeg.png' border='0' alt="a.jpg-100.jpeg"/> 
 </div>
