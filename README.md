@@ -1,3 +1,21 @@
+# Associations
+
+<hr/>
+
+# Association Finder
+
+The program generates makes all possible association claims about a set of data and checks them out.
+Then it lists the 10 claims it's most confident in.
+
+For example: 
+
+Claim : If customer's age is < 16 and customer bought candy, then it's likely that the customer also bought Coca Cola.
+This is one of the claims that the program will make
+
+<hr/>
+<hr/>
+<hr/>
+
 # Clustering
 
 <hr/>
@@ -23,3 +41,4 @@ and will produce these:
 <img src='https://s21.postimg.org/3nxhe0shv/a.jpg-25.jpeg.png' border='0' alt="a.jpg-25.jpeg"/>
 <img src='https://s21.postimg.org/6jakkvwhv/a.jpg-100.jpeg.png' border='0' alt="a.jpg-100.jpeg"/> 
 </div>
+
